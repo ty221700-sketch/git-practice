@@ -1,2 +1,1 @@
-#Git Practice
-Giới thiệu: Tôi tên là <Ngô Tỷ>, MSSV <221700>.
+Đây là README từ nhánh conflict-demo.
